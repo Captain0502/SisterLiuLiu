@@ -1,0 +1,1207 @@
+fileFormatVersion: 2
+guid: 60af3297da795d349aac3b6316e6193d
+timeCreated: 1500009892
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 66jie
+    100002: 66jie_BrowInnerL
+    100004: 66jie_BrowInnerR
+    100006: 66jie_BrowOtuerL
+    100008: 66jie_BrowOtuerR
+    100010: 66jie_CheekL
+    100012: 66jie_CheekR
+    100014: 66jie_eyeL
+    100016: 66jie_eyeL_0
+    100018: 66jie_eyeL_2
+    100020: 66jie_eyeL_2_0
+    100022: 66jie_hair_01
+    100024: 66jie_hair_02
+    100026: 66jie_hair_03
+    100028: 66jie_hair_04
+    100030: 66jie_hair_05
+    100032: 66jie_hair_06
+    100034: 66jie_hair_07
+    100036: 66jie_hair_08
+    100038: 66jie_hair_09
+    100040: 66jie_hair_10
+    100042: 66jie_hair_11
+    100044: 66jie_Head
+    100046: 66jie_Jaw
+    100048: 66jie_JawRoot
+    100050: 66jie_L_Calf
+    100052: 66jie_L_Clavicle
+    100054: 66jie_L_Finger0
+    100056: 66jie_L_Finger01
+    100058: 66jie_L_Finger02
+    100060: 66jie_L_Finger1
+    100062: 66jie_L_Finger11
+    100064: 66jie_L_Finger12
+    100066: 66jie_L_Finger2
+    100068: 66jie_L_Finger21
+    100070: 66jie_L_Finger22
+    100072: 66jie_L_Finger3
+    100074: 66jie_L_Finger31
+    100076: 66jie_L_Finger32
+    100078: 66jie_L_Finger4
+    100080: 66jie_L_Finger41
+    100082: 66jie_L_Finger42
+    100084: 66jie_L_Foot
+    100086: 66jie_L_Forearm
+    100088: 66jie_L_Hand
+    100090: 66jie_L_Thigh
+    100092: 66jie_L_Toe0
+    100094: 66jie_L_UpperArm
+    100096: 66jie_LeftEye
+    100098: 66jie_lingdai_01
+    100100: 66jie_lingdai_02
+    100102: 66jie_LipCornerL
+    100104: 66jie_LipCornerR
+    100106: 66jie_LipLower
+    100108: 66jie_LipLowerL
+    100110: 66jie_LipLowerR
+    100112: 66jie_LipUpper
+    100114: 66jie_LipUpperL
+    100116: 66jie_LipUpperR
+    100118: 66jie_LowerLidL
+    100120: 66jie_LowerLidR
+    100122: 66jie_Neck
+    100124: 66jie_Pelvis
+    100126: 66jie_R_Calf
+    100128: 66jie_R_Clavicle
+    100130: 66jie_R_Finger0
+    100132: 66jie_R_Finger01
+    100134: 66jie_R_Finger02
+    100136: 66jie_R_Finger1
+    100138: 66jie_R_Finger11
+    100140: 66jie_R_Finger12
+    100142: 66jie_R_Finger2
+    100144: 66jie_R_Finger21
+    100146: 66jie_R_Finger22
+    100148: 66jie_R_Finger3
+    100150: 66jie_R_Finger31
+    100152: 66jie_R_Finger32
+    100154: 66jie_R_Finger4
+    100156: 66jie_R_Finger41
+    100158: 66jie_R_Finger42
+    100160: 66jie_R_Foot
+    100162: 66jie_R_Forearm
+    100164: 66jie_R_Hand
+    100166: 66jie_R_Thigh
+    100168: 66jie_R_Toe0
+    100170: 66jie_R_UpperArm
+    100172: 66jie_RightEye
+    100174: 66jie_Spine
+    100176: 66jie_Spine1
+    100178: 66jie_Spine2
+    100180: 66jie_TongueF
+    100182: 66jie_TongueR
+    100184: 66jie_UpperLidL
+    100186: 66jie_UpperLidR
+    100188: //RootNode
+    100190: body
+    100192: Bone_eyelid_down_L
+    100194: Bone_eyelid_down_R
+    100196: Bone_eyelid_up_L
+    100198: Bone_eyelid_up_R
+    100200: chenshan_01
+    100202: chenshan_012
+    100204: chenshan_014
+    100206: chenshan_08
+    100208: chenshan_09
+    100210: chenshan_10
+    100212: jiemao_L
+    100214: jiemao_R
+    100216: lingdai_01
+    100218: MeiMao
+    100220: pSphere1
+    100222: pSphere1_0
+    100224: pSphere2
+    100226: pSphere2_0
+    100228: qunzi
+    100230: shetou2
+    100232: toufa
+    100234: xiezi_L
+    100236: xiezi_R
+    100238: ya_DN
+    100240: ya_UP
+    400000: 66jie
+    400002: 66jie_BrowInnerL
+    400004: 66jie_BrowInnerR
+    400006: 66jie_BrowOtuerL
+    400008: 66jie_BrowOtuerR
+    400010: 66jie_CheekL
+    400012: 66jie_CheekR
+    400014: 66jie_eyeL
+    400016: 66jie_eyeL_0
+    400018: 66jie_eyeL_2
+    400020: 66jie_eyeL_2_0
+    400022: 66jie_hair_01
+    400024: 66jie_hair_02
+    400026: 66jie_hair_03
+    400028: 66jie_hair_04
+    400030: 66jie_hair_05
+    400032: 66jie_hair_06
+    400034: 66jie_hair_07
+    400036: 66jie_hair_08
+    400038: 66jie_hair_09
+    400040: 66jie_hair_10
+    400042: 66jie_hair_11
+    400044: 66jie_Head
+    400046: 66jie_Jaw
+    400048: 66jie_JawRoot
+    400050: 66jie_L_Calf
+    400052: 66jie_L_Clavicle
+    400054: 66jie_L_Finger0
+    400056: 66jie_L_Finger01
+    400058: 66jie_L_Finger02
+    400060: 66jie_L_Finger1
+    400062: 66jie_L_Finger11
+    400064: 66jie_L_Finger12
+    400066: 66jie_L_Finger2
+    400068: 66jie_L_Finger21
+    400070: 66jie_L_Finger22
+    400072: 66jie_L_Finger3
+    400074: 66jie_L_Finger31
+    400076: 66jie_L_Finger32
+    400078: 66jie_L_Finger4
+    400080: 66jie_L_Finger41
+    400082: 66jie_L_Finger42
+    400084: 66jie_L_Foot
+    400086: 66jie_L_Forearm
+    400088: 66jie_L_Hand
+    400090: 66jie_L_Thigh
+    400092: 66jie_L_Toe0
+    400094: 66jie_L_UpperArm
+    400096: 66jie_LeftEye
+    400098: 66jie_lingdai_01
+    400100: 66jie_lingdai_02
+    400102: 66jie_LipCornerL
+    400104: 66jie_LipCornerR
+    400106: 66jie_LipLower
+    400108: 66jie_LipLowerL
+    400110: 66jie_LipLowerR
+    400112: 66jie_LipUpper
+    400114: 66jie_LipUpperL
+    400116: 66jie_LipUpperR
+    400118: 66jie_LowerLidL
+    400120: 66jie_LowerLidR
+    400122: 66jie_Neck
+    400124: 66jie_Pelvis
+    400126: 66jie_R_Calf
+    400128: 66jie_R_Clavicle
+    400130: 66jie_R_Finger0
+    400132: 66jie_R_Finger01
+    400134: 66jie_R_Finger02
+    400136: 66jie_R_Finger1
+    400138: 66jie_R_Finger11
+    400140: 66jie_R_Finger12
+    400142: 66jie_R_Finger2
+    400144: 66jie_R_Finger21
+    400146: 66jie_R_Finger22
+    400148: 66jie_R_Finger3
+    400150: 66jie_R_Finger31
+    400152: 66jie_R_Finger32
+    400154: 66jie_R_Finger4
+    400156: 66jie_R_Finger41
+    400158: 66jie_R_Finger42
+    400160: 66jie_R_Foot
+    400162: 66jie_R_Forearm
+    400164: 66jie_R_Hand
+    400166: 66jie_R_Thigh
+    400168: 66jie_R_Toe0
+    400170: 66jie_R_UpperArm
+    400172: 66jie_RightEye
+    400174: 66jie_Spine
+    400176: 66jie_Spine1
+    400178: 66jie_Spine2
+    400180: 66jie_TongueF
+    400182: 66jie_TongueR
+    400184: 66jie_UpperLidL
+    400186: 66jie_UpperLidR
+    400188: //RootNode
+    400190: body
+    400192: Bone_eyelid_down_L
+    400194: Bone_eyelid_down_R
+    400196: Bone_eyelid_up_L
+    400198: Bone_eyelid_up_R
+    400200: chenshan_01
+    400202: chenshan_012
+    400204: chenshan_014
+    400206: chenshan_08
+    400208: chenshan_09
+    400210: chenshan_10
+    400212: jiemao_L
+    400214: jiemao_R
+    400216: lingdai_01
+    400218: MeiMao
+    400220: pSphere1
+    400222: pSphere1_0
+    400224: pSphere2
+    400226: pSphere2_0
+    400228: qunzi
+    400230: shetou2
+    400232: toufa
+    400234: xiezi_L
+    400236: xiezi_R
+    400238: ya_DN
+    400240: ya_UP
+    4300000: jiemao_L
+    4300002: xiezi_L
+    4300004: chenshan_08
+    4300006: chenshan_10
+    4300008: ya_UP
+    4300010: shetou2
+    4300012: jiemao_R
+    4300014: chenshan_014
+    4300016: chenshan_012
+    4300018: lingdai_01
+    4300020: chenshan_01
+    4300022: toufa
+    4300024: qunzi
+    4300026: ya_DN
+    4300028: xiezi_R
+    4300030: chenshan_09
+    4300032: MeiMao
+    4300034: 66jie_eyeL_2_0
+    4300036: 66jie_eyeL_0
+    4300038: pSphere1_0
+    4300040: body
+    4300042: pSphere2_0
+    7400000: "66\u59D0\u51FA\u573A"
+    7400002: "66\u59D0\u5F85\u673A-A"
+    7400004: "66\u59D0\u7B2C2\u53E5\u8BDD"
+    9500000: //RootNode
+    13700000: 66jie_eyeL_0
+    13700002: 66jie_eyeL_2_0
+    13700004: body
+    13700006: chenshan_01
+    13700008: chenshan_012
+    13700010: chenshan_014
+    13700012: chenshan_08
+    13700014: chenshan_09
+    13700016: chenshan_10
+    13700018: jiemao_L
+    13700020: jiemao_R
+    13700022: lingdai_01
+    13700024: MeiMao
+    13700026: pSphere1_0
+    13700028: pSphere2_0
+    13700030: qunzi
+    13700032: shetou2
+    13700034: toufa
+    13700036: xiezi_L
+    13700038: xiezi_R
+    13700040: ya_DN
+    13700042: ya_UP
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip '66\u59D0\u51FA\u573A' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'66jie_Spine2' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'66jie_Jaw' has translation
+      animation that will be discarded.\n\t'66jie_L_Forearm' has translation animation
+      that will be discarded.\n\t'66jie_R_Forearm' has translation animation that
+      will be discarded.\n\nClip '66\u59D0\u5F85\u673A-A' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'66jie_Spine2' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'66jie_L_Forearm' has
+      translation animation that will be discarded.\n\t'66jie_R_Forearm' has translation
+      animation that will be discarded.\n\nClip '66\u59D0\u7B2C2\u53E5\u8BDD' has
+      import animation warnings that might lower retargeting quality:\nNote: Activate
+      translation DOF on avatar to improve retargeting quality.\n\t'66jie_Spine2'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'66jie_JawRoot'
+      has translation animation that will be discarded.\n\t'66jie_Jaw' has translation
+      animation that will be discarded.\n\t'66jie_L_Forearm' has translation animation
+      that will be discarded.\n\t'66jie_R_Forearm' has translation animation that
+      will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: "66\u59D0\u51FA\u573A"
+      takeName: "66\u59D0\u51FA\u573A"
+      firstFrame: 0
+      lastFrame: 228
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.026086956
+        functionName: SoundEvent
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 1
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 66jie
+        weight: 1
+      - path: 66jie/66jie_Pelvis
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_L_Thigh
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_L_Thigh/66jie_L_Calf
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_L_Thigh/66jie_L_Calf/66jie_L_Foot
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_L_Thigh/66jie_L_Calf/66jie_L_Foot/66jie_L_Toe0
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_R_Thigh
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_R_Thigh/66jie_R_Calf
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_R_Thigh/66jie_R_Calf/66jie_R_Foot
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_R_Thigh/66jie_R_Calf/66jie_R_Foot/66jie_R_Toe0
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand/66jie_L_Finger0
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand/66jie_L_Finger0/66jie_L_Finger01
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand/66jie_L_Finger0/66jie_L_Finger01/66jie_L_Finger02
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand/66jie_L_Finger1
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand/66jie_L_Finger1/66jie_L_Finger11
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand/66jie_L_Finger1/66jie_L_Finger11/66jie_L_Finger12
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand/66jie_L_Finger2
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand/66jie_L_Finger2/66jie_L_Finger21
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand/66jie_L_Finger2/66jie_L_Finger21/66jie_L_Finger22
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand/66jie_L_Finger3
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand/66jie_L_Finger3/66jie_L_Finger31
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand/66jie_L_Finger3/66jie_L_Finger31/66jie_L_Finger32
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand/66jie_L_Finger4
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand/66jie_L_Finger4/66jie_L_Finger41
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand/66jie_L_Finger4/66jie_L_Finger41/66jie_L_Finger42
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_lingdai_01
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_lingdai_01/66jie_lingdai_02
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_BrowInnerL
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_BrowInnerR
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_BrowOtuerL
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_BrowOtuerR
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_CheekL
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_CheekR
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_hair_01
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_hair_01/66jie_hair_02
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_hair_01/66jie_hair_02/66jie_hair_03
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_hair_04
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_hair_04/66jie_hair_05
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_hair_04/66jie_hair_05/66jie_hair_06
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_hair_07
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_hair_07/66jie_hair_08
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_hair_07/66jie_hair_08/66jie_hair_09
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_hair_10
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_hair_10/66jie_hair_11
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_JawRoot
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_JawRoot/66jie_Jaw
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_JawRoot/66jie_Jaw/66jie_LipLower
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_JawRoot/66jie_Jaw/66jie_LipLower/66jie_LipLowerL
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_JawRoot/66jie_Jaw/66jie_LipLower/66jie_LipLowerR
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_JawRoot/66jie_Jaw/66jie_TongueR
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_JawRoot/66jie_Jaw/66jie_TongueR/66jie_TongueF
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_LeftEye
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_LipCornerL
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_LipCornerR
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_LipUpper
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_LipUpper/66jie_LipUpperL
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_LipUpper/66jie_LipUpperR
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_RightEye
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/Bone_eyelid_down_L
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/Bone_eyelid_down_L/66jie_LowerLidL
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/Bone_eyelid_down_R
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/Bone_eyelid_down_R/66jie_LowerLidR
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/Bone_eyelid_up_L
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/Bone_eyelid_up_L/66jie_UpperLidL
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/Bone_eyelid_up_R
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/Bone_eyelid_up_R/66jie_UpperLidR
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand/66jie_R_Finger0
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand/66jie_R_Finger0/66jie_R_Finger01
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand/66jie_R_Finger0/66jie_R_Finger01/66jie_R_Finger02
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand/66jie_R_Finger1
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand/66jie_R_Finger1/66jie_R_Finger11
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand/66jie_R_Finger1/66jie_R_Finger11/66jie_R_Finger12
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand/66jie_R_Finger2
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand/66jie_R_Finger2/66jie_R_Finger21
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand/66jie_R_Finger2/66jie_R_Finger21/66jie_R_Finger22
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand/66jie_R_Finger3
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand/66jie_R_Finger3/66jie_R_Finger31
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand/66jie_R_Finger3/66jie_R_Finger31/66jie_R_Finger32
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand/66jie_R_Finger4
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand/66jie_R_Finger4/66jie_R_Finger41
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand/66jie_R_Finger4/66jie_R_Finger41/66jie_R_Finger42
+        weight: 1
+      - path: 66jie_eyeL
+        weight: 1
+      - path: 66jie_eyeL/pSphere2
+        weight: 1
+      - path: 66jie_eyeL_0
+        weight: 1
+      - path: 66jie_eyeL_2
+        weight: 1
+      - path: 66jie_eyeL_2/pSphere1
+        weight: 1
+      - path: 66jie_eyeL_2_0
+        weight: 1
+      - path: body
+        weight: 1
+      - path: chenshan_01
+        weight: 1
+      - path: chenshan_08
+        weight: 1
+      - path: chenshan_09
+        weight: 1
+      - path: chenshan_10
+        weight: 1
+      - path: chenshan_012
+        weight: 1
+      - path: chenshan_014
+        weight: 1
+      - path: jiemao_L
+        weight: 1
+      - path: jiemao_R
+        weight: 1
+      - path: lingdai_01
+        weight: 1
+      - path: MeiMao
+        weight: 1
+      - path: pSphere1_0
+        weight: 1
+      - path: pSphere2_0
+        weight: 1
+      - path: qunzi
+        weight: 1
+      - path: shetou2
+        weight: 1
+      - path: toufa
+        weight: 1
+      - path: xiezi_L
+        weight: 1
+      - path: xiezi_R
+        weight: 1
+      - path: ya_DN
+        weight: 1
+      - path: ya_UP
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "66\u59D0\u5F85\u673A-A"
+      takeName: "66\u59D0\u5F85\u673A-A"
+      firstFrame: 0
+      lastFrame: 228
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 66jie
+        weight: 1
+      - path: 66jie/66jie_Pelvis
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_L_Thigh
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_L_Thigh/66jie_L_Calf
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_L_Thigh/66jie_L_Calf/66jie_L_Foot
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_L_Thigh/66jie_L_Calf/66jie_L_Foot/66jie_L_Toe0
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_R_Thigh
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_R_Thigh/66jie_R_Calf
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_R_Thigh/66jie_R_Calf/66jie_R_Foot
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_R_Thigh/66jie_R_Calf/66jie_R_Foot/66jie_R_Toe0
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand/66jie_L_Finger0
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand/66jie_L_Finger0/66jie_L_Finger01
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand/66jie_L_Finger0/66jie_L_Finger01/66jie_L_Finger02
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand/66jie_L_Finger1
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand/66jie_L_Finger1/66jie_L_Finger11
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand/66jie_L_Finger1/66jie_L_Finger11/66jie_L_Finger12
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand/66jie_L_Finger2
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand/66jie_L_Finger2/66jie_L_Finger21
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand/66jie_L_Finger2/66jie_L_Finger21/66jie_L_Finger22
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand/66jie_L_Finger3
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand/66jie_L_Finger3/66jie_L_Finger31
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand/66jie_L_Finger3/66jie_L_Finger31/66jie_L_Finger32
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand/66jie_L_Finger4
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand/66jie_L_Finger4/66jie_L_Finger41
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand/66jie_L_Finger4/66jie_L_Finger41/66jie_L_Finger42
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_lingdai_01
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_lingdai_01/66jie_lingdai_02
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_BrowInnerL
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_BrowInnerR
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_BrowOtuerL
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_BrowOtuerR
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_CheekL
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_CheekR
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_hair_01
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_hair_01/66jie_hair_02
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_hair_01/66jie_hair_02/66jie_hair_03
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_hair_04
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_hair_04/66jie_hair_05
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_hair_04/66jie_hair_05/66jie_hair_06
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_hair_07
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_hair_07/66jie_hair_08
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_hair_07/66jie_hair_08/66jie_hair_09
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_hair_10
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_hair_10/66jie_hair_11
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_JawRoot
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_JawRoot/66jie_Jaw
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_JawRoot/66jie_Jaw/66jie_LipLower
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_JawRoot/66jie_Jaw/66jie_LipLower/66jie_LipLowerL
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_JawRoot/66jie_Jaw/66jie_LipLower/66jie_LipLowerR
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_JawRoot/66jie_Jaw/66jie_TongueR
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_JawRoot/66jie_Jaw/66jie_TongueR/66jie_TongueF
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_LeftEye
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_LipCornerL
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_LipCornerR
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_LipUpper
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_LipUpper/66jie_LipUpperL
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_LipUpper/66jie_LipUpperR
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_RightEye
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/Bone_eyelid_down_L
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/Bone_eyelid_down_L/66jie_LowerLidL
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/Bone_eyelid_down_R
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/Bone_eyelid_down_R/66jie_LowerLidR
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/Bone_eyelid_up_L
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/Bone_eyelid_up_L/66jie_UpperLidL
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/Bone_eyelid_up_R
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/Bone_eyelid_up_R/66jie_UpperLidR
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand/66jie_R_Finger0
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand/66jie_R_Finger0/66jie_R_Finger01
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand/66jie_R_Finger0/66jie_R_Finger01/66jie_R_Finger02
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand/66jie_R_Finger1
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand/66jie_R_Finger1/66jie_R_Finger11
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand/66jie_R_Finger1/66jie_R_Finger11/66jie_R_Finger12
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand/66jie_R_Finger2
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand/66jie_R_Finger2/66jie_R_Finger21
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand/66jie_R_Finger2/66jie_R_Finger21/66jie_R_Finger22
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand/66jie_R_Finger3
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand/66jie_R_Finger3/66jie_R_Finger31
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand/66jie_R_Finger3/66jie_R_Finger31/66jie_R_Finger32
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand/66jie_R_Finger4
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand/66jie_R_Finger4/66jie_R_Finger41
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand/66jie_R_Finger4/66jie_R_Finger41/66jie_R_Finger42
+        weight: 1
+      - path: 66jie_eyeL
+        weight: 1
+      - path: 66jie_eyeL/pSphere2
+        weight: 1
+      - path: 66jie_eyeL_0
+        weight: 1
+      - path: 66jie_eyeL_2
+        weight: 1
+      - path: 66jie_eyeL_2/pSphere1
+        weight: 1
+      - path: 66jie_eyeL_2_0
+        weight: 1
+      - path: body
+        weight: 1
+      - path: chenshan_01
+        weight: 1
+      - path: chenshan_08
+        weight: 1
+      - path: chenshan_09
+        weight: 1
+      - path: chenshan_10
+        weight: 1
+      - path: chenshan_012
+        weight: 1
+      - path: chenshan_014
+        weight: 1
+      - path: jiemao_L
+        weight: 1
+      - path: jiemao_R
+        weight: 1
+      - path: lingdai_01
+        weight: 1
+      - path: MeiMao
+        weight: 1
+      - path: pSphere1_0
+        weight: 1
+      - path: pSphere2_0
+        weight: 1
+      - path: qunzi
+        weight: 1
+      - path: shetou2
+        weight: 1
+      - path: toufa
+        weight: 1
+      - path: xiezi_L
+        weight: 1
+      - path: xiezi_R
+        weight: 1
+      - path: ya_DN
+        weight: 1
+      - path: ya_UP
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 50
+    - serializedVersion: 16
+      name: "66\u59D0\u7B2C2\u53E5\u8BDD"
+      takeName: "66\u59D0\u7B2C2\u53E5\u8BDD"
+      firstFrame: 0
+      lastFrame: 824
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.03188406
+        functionName: SoundEvent
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 2
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 66jie
+        weight: 1
+      - path: 66jie/66jie_Pelvis
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_L_Thigh
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_L_Thigh/66jie_L_Calf
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_L_Thigh/66jie_L_Calf/66jie_L_Foot
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_L_Thigh/66jie_L_Calf/66jie_L_Foot/66jie_L_Toe0
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_R_Thigh
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_R_Thigh/66jie_R_Calf
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_R_Thigh/66jie_R_Calf/66jie_R_Foot
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_R_Thigh/66jie_R_Calf/66jie_R_Foot/66jie_R_Toe0
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand/66jie_L_Finger0
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand/66jie_L_Finger0/66jie_L_Finger01
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand/66jie_L_Finger0/66jie_L_Finger01/66jie_L_Finger02
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand/66jie_L_Finger1
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand/66jie_L_Finger1/66jie_L_Finger11
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand/66jie_L_Finger1/66jie_L_Finger11/66jie_L_Finger12
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand/66jie_L_Finger2
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand/66jie_L_Finger2/66jie_L_Finger21
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand/66jie_L_Finger2/66jie_L_Finger21/66jie_L_Finger22
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand/66jie_L_Finger3
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand/66jie_L_Finger3/66jie_L_Finger31
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand/66jie_L_Finger3/66jie_L_Finger31/66jie_L_Finger32
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand/66jie_L_Finger4
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand/66jie_L_Finger4/66jie_L_Finger41
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_L_Clavicle/66jie_L_UpperArm/66jie_L_Forearm/66jie_L_Hand/66jie_L_Finger4/66jie_L_Finger41/66jie_L_Finger42
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_lingdai_01
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_lingdai_01/66jie_lingdai_02
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_BrowInnerL
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_BrowInnerR
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_BrowOtuerL
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_BrowOtuerR
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_CheekL
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_CheekR
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_hair_01
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_hair_01/66jie_hair_02
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_hair_01/66jie_hair_02/66jie_hair_03
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_hair_04
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_hair_04/66jie_hair_05
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_hair_04/66jie_hair_05/66jie_hair_06
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_hair_07
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_hair_07/66jie_hair_08
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_hair_07/66jie_hair_08/66jie_hair_09
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_hair_10
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_hair_10/66jie_hair_11
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_JawRoot
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_JawRoot/66jie_Jaw
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_JawRoot/66jie_Jaw/66jie_LipLower
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_JawRoot/66jie_Jaw/66jie_LipLower/66jie_LipLowerL
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_JawRoot/66jie_Jaw/66jie_LipLower/66jie_LipLowerR
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_JawRoot/66jie_Jaw/66jie_TongueR
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_JawRoot/66jie_Jaw/66jie_TongueR/66jie_TongueF
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_LeftEye
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_LipCornerL
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_LipCornerR
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_LipUpper
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_LipUpper/66jie_LipUpperL
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_LipUpper/66jie_LipUpperR
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/66jie_RightEye
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/Bone_eyelid_down_L
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/Bone_eyelid_down_L/66jie_LowerLidL
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/Bone_eyelid_down_R
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/Bone_eyelid_down_R/66jie_LowerLidR
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/Bone_eyelid_up_L
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/Bone_eyelid_up_L/66jie_UpperLidL
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/Bone_eyelid_up_R
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_Neck/66jie_Head/Bone_eyelid_up_R/66jie_UpperLidR
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand/66jie_R_Finger0
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand/66jie_R_Finger0/66jie_R_Finger01
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand/66jie_R_Finger0/66jie_R_Finger01/66jie_R_Finger02
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand/66jie_R_Finger1
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand/66jie_R_Finger1/66jie_R_Finger11
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand/66jie_R_Finger1/66jie_R_Finger11/66jie_R_Finger12
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand/66jie_R_Finger2
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand/66jie_R_Finger2/66jie_R_Finger21
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand/66jie_R_Finger2/66jie_R_Finger21/66jie_R_Finger22
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand/66jie_R_Finger3
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand/66jie_R_Finger3/66jie_R_Finger31
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand/66jie_R_Finger3/66jie_R_Finger31/66jie_R_Finger32
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand/66jie_R_Finger4
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand/66jie_R_Finger4/66jie_R_Finger41
+        weight: 1
+      - path: 66jie/66jie_Pelvis/66jie_Spine/66jie_Spine1/66jie_Spine2/66jie_R_Clavicle/66jie_R_UpperArm/66jie_R_Forearm/66jie_R_Hand/66jie_R_Finger4/66jie_R_Finger41/66jie_R_Finger42
+        weight: 1
+      - path: 66jie_eyeL
+        weight: 1
+      - path: 66jie_eyeL/pSphere2
+        weight: 1
+      - path: 66jie_eyeL_0
+        weight: 1
+      - path: 66jie_eyeL_2
+        weight: 1
+      - path: 66jie_eyeL_2/pSphere1
+        weight: 1
+      - path: 66jie_eyeL_2_0
+        weight: 1
+      - path: body
+        weight: 1
+      - path: chenshan_01
+        weight: 1
+      - path: chenshan_08
+        weight: 1
+      - path: chenshan_09
+        weight: 1
+      - path: chenshan_10
+        weight: 1
+      - path: chenshan_012
+        weight: 1
+      - path: chenshan_014
+        weight: 1
+      - path: jiemao_L
+        weight: 1
+      - path: jiemao_R
+        weight: 1
+      - path: lingdai_01
+        weight: 1
+      - path: MeiMao
+        weight: 1
+      - path: pSphere1_0
+        weight: 1
+      - path: pSphere2_0
+        weight: 1
+      - path: qunzi
+        weight: 1
+      - path: shetou2
+        weight: 1
+      - path: toufa
+        weight: 1
+      - path: xiezi_L
+        weight: 1
+      - path: xiezi_R
+        weight: 1
+      - path: ya_DN
+        weight: 1
+      - path: ya_UP
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
